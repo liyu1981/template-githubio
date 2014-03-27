@@ -12,6 +12,11 @@ h4+pre, h3+pre { margin-top:20px; }
 pre code{background-color:transparent;border:none;padding:0;word-wrap:normal;}
 pre ol{margin-left:25px;list-style-type:decimal;}
 
+body table { margin: 45px; text-align: left; border-collapse: collapse; border: 1px solid #999; }
+body table th { padding: 12px 17px 12px 17px; font-weight: normal; border-bottom: 1px dashed #444; }
+body table td { padding: 7px 17px 7px 17px; }
+body table tr:hover td { color: #339; background: #d0dafd; }
+
 .hide-phone { }
 
 /************layout style*****************/
